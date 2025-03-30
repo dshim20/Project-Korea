@@ -42,6 +42,11 @@ header{
     padding: 1rem 2rem;
 }
 
+.Korean{
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+
 .hamburger-menu{
     height: 5rem;
     width:5rem;
